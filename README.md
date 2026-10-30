@@ -7,7 +7,6 @@ Cliente ──► RateLimitProxyService ──► QuotaProxyService ──► Mo
               (429 Too Many Requests)   (402 Payment Required)   (Thread.sleep 1200 ms)
 ```
 
-Autora: **Luisa Fernanda Parra Cabrera** — Ingeniería de Software, Universidad Cooperativa de Colombia.
 
 ## Planes
 
